@@ -21,7 +21,7 @@ body {
 	// Remove Greeting. Welcome!
 	&:before {
 		align-items: center;
-		content: "Welcome to SASS Quickstart!";
+		//content: "Hello what to";
 		display: flex;
 		font-family: $font1;
 		font-size: 1.5rem;
